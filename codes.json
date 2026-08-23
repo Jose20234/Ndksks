@@ -1,0 +1,326 @@
+{
+  "databaseVersion": "2026.08.23.2323",
+  "updated": "2026-08-23T23:23:31Z",
+  "season": "C7S4",
+  "seasonName": "Chapter 7 Season 4 — Override",
+  "sources": [
+    "https://fortnite.gg/lobby-hacks"
+  ],
+  "codes": [
+    {
+      "id": "8BITBLAST",
+      "code": "8BitBlast",
+      "reward": "Cheat Master 8-Bit Sprite",
+      "category": "Cheat Master Sprite",
+      "status": "confirmed",
+      "firstSeen": "2026-08-23",
+      "lastSeen": "2026-08-23",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "ABGESTAUBT",
+      "code": "Abgestaubt",
+      "reward": "2,000 Sprite Dust",
+      "category": "Sprite Dust",
+      "status": "confirmed",
+      "firstSeen": "2026-08-23",
+      "lastSeen": "2026-08-23",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "BEMOREALIEN",
+      "code": "BeMoreAlien",
+      "reward": "Override Ready Loading Screen",
+      "category": "Loading Screen",
+      "status": "confirmed",
+      "firstSeen": "2026-08-23",
+      "lastSeen": "2026-08-23",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "BORN2PLAY",
+      "code": "Born2Play",
+      "reward": "Cheat Master Adventure Sprite",
+      "category": "Cheat Master Sprite",
+      "status": "confirmed",
+      "firstSeen": "2026-08-23",
+      "lastSeen": "2026-08-23",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "CHISPAMBO",
+      "code": "Chispambo",
+      "reward": "2,000 Sprite Dust",
+      "category": "Sprite Dust",
+      "status": "confirmed",
+      "firstSeen": "2026-08-23",
+      "lastSeen": "2026-08-23",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "DONTBLOCKME",
+      "code": "DontBlockMe",
+      "reward": "Turns you into a Tetrimino.",
+      "category": "Other",
+      "status": "confirmed",
+      "firstSeen": "2026-08-23",
+      "lastSeen": "2026-08-23",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "FINDITCHAT",
+      "code": "FindItChat",
+      "reward": "2 Cheat Code Locators",
+      "category": "Gizmo",
+      "status": "confirmed",
+      "firstSeen": "2026-08-23",
+      "lastSeen": "2026-08-23",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "GATHERANDCRAFT",
+      "code": "GatherAndCraft",
+      "reward": "Cheat Master Bush Sprite (Requires Quest In-Game)",
+      "category": "Cheat Master Sprite",
+      "status": "confirmed",
+      "firstSeen": "2026-08-23",
+      "lastSeen": "2026-08-23",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "GOTTAGOFAST",
+      "code": "GottaGoFast",
+      "reward": "Cheat Master Sonic Sprite",
+      "category": "Cheat Master Sprite",
+      "status": "confirmed",
+      "firstSeen": "2026-08-23",
+      "lastSeen": "2026-08-23",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "H0P0NVC",
+      "code": "H0p0nVC",
+      "reward": "2,000 Sprite Dust",
+      "category": "Sprite Dust",
+      "status": "confirmed",
+      "firstSeen": "2026-08-23",
+      "lastSeen": "2026-08-23",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "IWANNAFLYHIGH",
+      "code": "IWannaFlyHigh",
+      "reward": "Cheat Master Tails Sprite",
+      "category": "Cheat Master Sprite",
+      "status": "confirmed",
+      "firstSeen": "2026-08-23",
+      "lastSeen": "2026-08-23",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "LETSBLOCKANDROLL",
+      "code": "LetsBlockAndRoll",
+      "reward": "Turns you into a Tetrimino.",
+      "category": "Other",
+      "status": "confirmed",
+      "firstSeen": "2026-08-23",
+      "lastSeen": "2026-08-23",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "MAGILUME",
+      "code": "Magilume",
+      "reward": "2,000 Sprite Dust",
+      "category": "Sprite Dust",
+      "status": "confirmed",
+      "firstSeen": "2026-08-23",
+      "lastSeen": "2026-08-23",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "O2OVERRIDE",
+      "code": "O2Override",
+      "reward": "1 Llama Supply Drop & 1 Portable Extractor",
+      "category": "Gizmo",
+      "status": "confirmed",
+      "firstSeen": "2026-08-23",
+      "lastSeen": "2026-08-23",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "OVERRIDEXP",
+      "code": "OverrideXP",
+      "reward": "40,000 XP",
+      "category": "XP",
+      "status": "confirmed",
+      "firstSeen": "2026-08-23",
+      "lastSeen": "2026-08-23",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "PERFECTORDER",
+      "code": "PerfectOrder",
+      "reward": "4 Spicy Tacos",
+      "category": "Gizmo",
+      "status": "confirmed",
+      "firstSeen": "2026-08-23",
+      "lastSeen": "2026-08-23",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "PERLIMPINPIN",
+      "code": "PerlimPinPin",
+      "reward": "2,000 Sprite Dust",
+      "category": "Sprite Dust",
+      "status": "confirmed",
+      "firstSeen": "2026-08-23",
+      "lastSeen": "2026-08-23",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "PLAY4ALL",
+      "code": "Play4All",
+      "reward": "Cheat Master Jonesy Sprite",
+      "category": "Cheat Master Sprite",
+      "status": "confirmed",
+      "firstSeen": "2026-08-23",
+      "lastSeen": "2026-08-23",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "REACHYOURIMPOSSIBLE",
+      "code": "ReachYourImpossible",
+      "reward": "Block Party Loading Screen",
+      "category": "Loading Screen",
+      "status": "confirmed",
+      "firstSeen": "2026-08-23",
+      "lastSeen": "2026-08-23",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "SURVIVETHENIGHT",
+      "code": "SurviveTheNight",
+      "reward": "2 Cheat Code Locators",
+      "category": "Gizmo",
+      "status": "confirmed",
+      "firstSeen": "2026-08-23",
+      "lastSeen": "2026-08-23",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "TAKEYOURHEART",
+      "code": "TakeYourHeart",
+      "reward": "2 Extraction Accelerators",
+      "category": "Gizmo",
+      "status": "confirmed",
+      "firstSeen": "2026-08-23",
+      "lastSeen": "2026-08-23",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    }
+  ]
+}
