@@ -1,6 +1,6 @@
 {
-  "databaseVersion": "2026.08.24.1241",
-  "updated": "2026-08-24T12:41:01Z",
+  "databaseVersion": "2026.08.24.1834",
+  "updated": "2026-08-24T18:34:23Z",
   "season": "C7S4",
   "seasonName": "Chapter 7 Season 4 — Override",
   "sources": [
@@ -164,6 +164,21 @@
       "category": "Cheat Master Sprite",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
+      "lastSeen": "2026-08-24",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "JONESYISGOLDEN",
+      "code": "JonesyIsGolden",
+      "reward": "Gold Jonesy Sprite",
+      "category": "Cheat Master Sprite",
+      "status": "confirmed",
+      "firstSeen": "2026-08-24",
       "lastSeen": "2026-08-24",
       "availability": "active",
       "observedSources": [
