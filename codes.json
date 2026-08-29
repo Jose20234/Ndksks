@@ -1,6 +1,6 @@
 {
-  "databaseVersion": "2026.08.28.2141",
-  "updated": "2026-08-28T21:41:44Z",
+  "databaseVersion": "2026.08.29.0527",
+  "updated": "2026-08-29T05:27:53Z",
   "season": "C7S4",
   "seasonName": "Chapter 7 Season 4 — Override",
   "sources": [
@@ -14,7 +14,7 @@
       "category": "Cheat Master Sprite",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-28",
+      "lastSeen": "2026-08-29",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -29,7 +29,7 @@
       "category": "Sprite Dust",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-28",
+      "lastSeen": "2026-08-29",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -44,7 +44,7 @@
       "category": "Loading Screen",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-28",
+      "lastSeen": "2026-08-29",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -59,7 +59,7 @@
       "category": "Cheat Master Sprite",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-28",
+      "lastSeen": "2026-08-29",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -74,7 +74,7 @@
       "category": "Sprite Dust",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-28",
+      "lastSeen": "2026-08-29",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -89,7 +89,7 @@
       "category": "Other",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-28",
+      "lastSeen": "2026-08-29",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -104,7 +104,7 @@
       "category": "Gizmo",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-28",
+      "lastSeen": "2026-08-29",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -119,7 +119,7 @@
       "category": "Cheat Master Sprite",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-28",
+      "lastSeen": "2026-08-29",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -134,7 +134,7 @@
       "category": "Cheat Master Sprite",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-28",
+      "lastSeen": "2026-08-29",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -149,7 +149,7 @@
       "category": "Sprite Dust",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-28",
+      "lastSeen": "2026-08-29",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -164,7 +164,7 @@
       "category": "Cheat Master Sprite",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-28",
+      "lastSeen": "2026-08-29",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -179,7 +179,7 @@
       "category": "Cheat Master Sprite",
       "status": "confirmed",
       "firstSeen": "2026-08-24",
-      "lastSeen": "2026-08-28",
+      "lastSeen": "2026-08-29",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -194,7 +194,7 @@
       "category": "Other",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-28",
+      "lastSeen": "2026-08-29",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -209,7 +209,7 @@
       "category": "Sprite Dust",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-28",
+      "lastSeen": "2026-08-29",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -224,7 +224,7 @@
       "category": "Gizmo",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-28",
+      "lastSeen": "2026-08-29",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -239,7 +239,7 @@
       "category": "XP",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-28",
+      "lastSeen": "2026-08-29",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -254,7 +254,7 @@
       "category": "Gizmo",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-28",
+      "lastSeen": "2026-08-29",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -269,7 +269,7 @@
       "category": "Sprite Dust",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-28",
+      "lastSeen": "2026-08-29",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -284,7 +284,7 @@
       "category": "Cheat Master Sprite",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-28",
+      "lastSeen": "2026-08-29",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -299,7 +299,7 @@
       "category": "Loading Screen",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-28",
+      "lastSeen": "2026-08-29",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -314,7 +314,7 @@
       "category": "Gizmo",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-28",
+      "lastSeen": "2026-08-29",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -329,7 +329,7 @@
       "category": "Gizmo",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-08-28",
+      "lastSeen": "2026-08-29",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
