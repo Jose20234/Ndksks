@@ -1,6 +1,6 @@
 {
-  "databaseVersion": "2026.09.03.0246",
-  "updated": "2026-09-03T02:46:31Z",
+  "databaseVersion": "2026.09.03.1037",
+  "updated": "2026-09-03T10:37:07Z",
   "season": "C7S4",
   "seasonName": "Chapter 7 Season 4 — Override",
   "sources": [
@@ -59,6 +59,21 @@
       "category": "Cheat Master Sprite",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
+      "lastSeen": "2026-09-03",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "CHATWHEREDOYOUFINDTHEKEY",
+      "code": "ChatWhereDoYouFindTheKey",
+      "reward": "2 Extraction Accelerators",
+      "category": "Gizmo",
+      "status": "confirmed",
+      "firstSeen": "2026-09-03",
       "lastSeen": "2026-09-03",
       "availability": "active",
       "observedSources": [
@@ -149,6 +164,21 @@
       "category": "Sprite Dust",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
+      "lastSeen": "2026-09-03",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "INVALIDCHEAT",
+      "code": "InvalidCheat",
+      "reward": "2 Cheat Code Locators",
+      "category": "Gizmo",
+      "status": "confirmed",
+      "firstSeen": "2026-09-03",
       "lastSeen": "2026-09-03",
       "availability": "active",
       "observedSources": [
