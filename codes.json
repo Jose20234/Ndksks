@@ -1,6 +1,6 @@
 {
-  "databaseVersion": "2026.09.03.1037",
-  "updated": "2026-09-03T10:37:07Z",
+  "databaseVersion": "2026.09.03.1543",
+  "updated": "2026-09-03T15:43:17Z",
   "season": "C7S4",
   "seasonName": "Chapter 7 Season 4 — Override",
   "sources": [
@@ -130,7 +130,7 @@
     {
       "id": "GATHERANDCRAFT",
       "code": "GatherAndCraft",
-      "reward": "Cheat Master Bush Sprite (Requires Quest In-Game)",
+      "reward": "Cheat Master Bush Sprite",
       "category": "Cheat Master Sprite",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
@@ -359,6 +359,21 @@
       "category": "Gizmo",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
+      "lastSeen": "2026-09-03",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "YOURTHOUGHTSAREMINE",
+      "code": "YourThoughtsAreMine",
+      "reward": "Void Master Geno style + 5,000 Sprite Dust",
+      "category": "Sprite Dust",
+      "status": "confirmed",
+      "firstSeen": "2026-09-03",
       "lastSeen": "2026-09-03",
       "availability": "active",
       "observedSources": [
