@@ -1,6 +1,6 @@
 {
-  "databaseVersion": "2026.09.05.1429",
-  "updated": "2026-09-05T14:29:56Z",
+  "databaseVersion": "2026.09.05.1952",
+  "updated": "2026-09-05T19:52:32Z",
   "season": "C7S4",
   "seasonName": "Chapter 7 Season 4 — Override",
   "sources": [
@@ -389,6 +389,21 @@
       "category": "Gizmo",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
+      "lastSeen": "2026-09-05",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "WHEREISTHEDUSTYTREE",
+      "code": "WhereIsTheDustyTree",
+      "reward": "5,000 Sprite Dust",
+      "category": "Sprite Dust",
+      "status": "confirmed",
+      "firstSeen": "2026-09-05",
       "lastSeen": "2026-09-05",
       "availability": "active",
       "observedSources": [
