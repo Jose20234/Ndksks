@@ -1,6 +1,6 @@
 {
-  "databaseVersion": "2026.09.07.1129",
-  "updated": "2026-09-07T11:29:01Z",
+  "databaseVersion": "2026.09.07.1709",
+  "updated": "2026-09-07T17:09:29Z",
   "season": "C7S4",
   "seasonName": "Chapter 7 Season 4 — Override",
   "sources": [
@@ -269,6 +269,21 @@
       "category": "Sprite Dust",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
+      "lastSeen": "2026-09-07",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "NOPROLLAMA",
+      "code": "NoProLlama",
+      "reward": "1 Llama Supply Drop",
+      "category": "Gizmo",
+      "status": "confirmed",
+      "firstSeen": "2026-09-07",
       "lastSeen": "2026-09-07",
       "availability": "active",
       "observedSources": [
