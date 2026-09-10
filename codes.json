@@ -1,6 +1,6 @@
 {
-  "databaseVersion": "2026.09.10.1546",
-  "updated": "2026-09-10T15:46:29Z",
+  "databaseVersion": "2026.09.10.2022",
+  "updated": "2026-09-10T20:22:52Z",
   "season": "C7S4",
   "seasonName": "Chapter 7 Season 4 — Override",
   "sources": [
@@ -119,6 +119,21 @@
       "category": "Other",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
+      "lastSeen": "2026-09-10",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "DUSTINTHEWIND",
+      "code": "DustInTheWind",
+      "reward": "5,000 Sprite Dust",
+      "category": "Sprite Dust",
+      "status": "confirmed",
+      "firstSeen": "2026-09-10",
       "lastSeen": "2026-09-10",
       "availability": "active",
       "observedSources": [
