@@ -1,6 +1,6 @@
 {
-  "databaseVersion": "2026.09.14.1140",
-  "updated": "2026-09-14T11:40:51Z",
+  "databaseVersion": "2026.09.14.1735",
+  "updated": "2026-09-14T17:35:32Z",
   "season": "C7S4",
   "seasonName": "Chapter 7 Season 4 — Override",
   "sources": [
@@ -29,6 +29,21 @@
       "category": "Sprite Dust",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
+      "lastSeen": "2026-09-14",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "BEAMMEUP",
+      "code": "BeamMeUp",
+      "reward": "2x Extraction Accelerator",
+      "category": "Gizmo",
+      "status": "confirmed",
+      "firstSeen": "2026-09-14",
       "lastSeen": "2026-09-14",
       "availability": "active",
       "observedSources": [
