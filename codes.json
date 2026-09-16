@@ -1,6 +1,6 @@
 {
-  "databaseVersion": "2026.09.16.1047",
-  "updated": "2026-09-16T10:47:26Z",
+  "databaseVersion": "2026.09.16.1602",
+  "updated": "2026-09-16T16:02:46Z",
   "season": "C7S4",
   "seasonName": "Chapter 7 Season 4 — Override",
   "sources": [
@@ -404,6 +404,21 @@
       "category": "Loading Screen",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
+      "lastSeen": "2026-09-16",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "SAYH12WR1X3L",
+      "code": "SAYH12WR1X3L",
+      "reward": "Wrixel's Hero Portrait Spray",
+      "category": "Spray",
+      "status": "confirmed",
+      "firstSeen": "2026-09-16",
       "lastSeen": "2026-09-16",
       "availability": "active",
       "observedSources": [
