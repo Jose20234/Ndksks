@@ -1,6 +1,6 @@
 {
-  "databaseVersion": "2026.09.17.0313",
-  "updated": "2026-09-17T03:13:58Z",
+  "databaseVersion": "2026.09.17.1053",
+  "updated": "2026-09-17T10:53:49Z",
   "season": "C7S4",
   "seasonName": "Chapter 7 Season 4 — Override",
   "sources": [
@@ -40,7 +40,7 @@
     {
       "id": "BEAMMEUP",
       "code": "BeamMeUp",
-      "reward": "2x Extraction Accelerator",
+      "reward": "2 Extraction Accelerators",
       "category": "Gizmo",
       "status": "confirmed",
       "firstSeen": "2026-09-14",
@@ -59,6 +59,21 @@
       "category": "Loading Screen",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
+      "lastSeen": "2026-09-17",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "BLINKYINKYPINKYCLYDE",
+      "code": "BlinkyInkyPinkyClyde",
+      "reward": "5,000 Sprite Dust",
+      "category": "Sprite Dust",
+      "status": "confirmed",
+      "firstSeen": "2026-09-17",
       "lastSeen": "2026-09-17",
       "availability": "active",
       "observedSources": [
@@ -119,6 +134,21 @@
       "category": "Sprite Dust",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
+      "lastSeen": "2026-09-17",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "DESTINYAWAITS",
+      "code": "DestinyAwaits",
+      "reward": "2 Llama Supply Drops",
+      "category": "Gizmo",
+      "status": "confirmed",
+      "firstSeen": "2026-09-17",
       "lastSeen": "2026-09-17",
       "availability": "active",
       "observedSources": [
@@ -299,6 +329,21 @@
       "category": "Sprite Dust",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
+      "lastSeen": "2026-09-17",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "NOCTURNEOP55N1",
+      "code": "NOCTURNEOP55N1",
+      "reward": "2 Extraction Accelerators",
+      "category": "Gizmo",
+      "status": "confirmed",
+      "firstSeen": "2026-09-17",
       "lastSeen": "2026-09-17",
       "availability": "active",
       "observedSources": [
