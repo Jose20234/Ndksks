@@ -1,6 +1,6 @@
 {
-  "databaseVersion": "2026.09.17.1053",
-  "updated": "2026-09-17T10:53:49Z",
+  "databaseVersion": "2026.09.17.1609",
+  "updated": "2026-09-17T16:09:50Z",
   "season": "C7S4",
   "seasonName": "Chapter 7 Season 4 — Override",
   "sources": [
@@ -104,6 +104,21 @@
       "category": "Other",
       "status": "confirmed",
       "firstSeen": "2026-09-04",
+      "lastSeen": "2026-09-17",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "CHATFINDMEANOTHERCODE",
+      "code": "ChatFindMeAnotherCode",
+      "reward": "2 Cheat Code Locators",
+      "category": "Gizmo",
+      "status": "confirmed",
+      "firstSeen": "2026-09-17",
       "lastSeen": "2026-09-17",
       "availability": "active",
       "observedSources": [
@@ -434,6 +449,21 @@
       "category": "Cheat Master Sprite",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
+      "lastSeen": "2026-09-17",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "PLAYTOLEVELUP",
+      "code": "PlayToLevelUp",
+      "reward": "2,000 Sprite Dust",
+      "category": "Sprite Dust",
+      "status": "confirmed",
+      "firstSeen": "2026-09-17",
       "lastSeen": "2026-09-17",
       "availability": "active",
       "observedSources": [
