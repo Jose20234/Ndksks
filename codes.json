@@ -1,6 +1,6 @@
 {
-  "databaseVersion": "2026.09.21.1153",
-  "updated": "2026-09-21T11:53:48Z",
+  "databaseVersion": "2026.09.21.1748",
+  "updated": "2026-09-21T17:48:09Z",
   "season": "C7S4",
   "seasonName": "Chapter 7 Season 4 — Override",
   "sources": [
@@ -23,12 +23,42 @@
       "expiredSources": []
     },
     {
+      "id": "9YEARS",
+      "code": "9Years",
+      "reward": "9th Birthday Sprite Spray",
+      "category": "Spray",
+      "status": "confirmed",
+      "firstSeen": "2026-09-21",
+      "lastSeen": "2026-09-21",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
       "id": "ABGESTAUBT",
       "code": "Abgestaubt",
       "reward": "2,000 Sprite Dust",
       "category": "Sprite Dust",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
+      "lastSeen": "2026-09-21",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "ALMOSTSCARINGSEASON",
+      "code": "AlmostScaringSeason",
+      "reward": "2 Cheat Code Locators",
+      "category": "Gizmo",
+      "status": "confirmed",
+      "firstSeen": "2026-09-21",
       "lastSeen": "2026-09-21",
       "availability": "active",
       "observedSources": [
