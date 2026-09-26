@@ -1,6 +1,6 @@
 {
-  "databaseVersion": "2026.09.26.1541",
-  "updated": "2026-09-26T15:41:10Z",
+  "databaseVersion": "2026.09.26.2036",
+  "updated": "2026-09-26T20:36:21Z",
   "season": "C7S4",
   "seasonName": "Chapter 7 Season 4 — Override",
   "sources": [
@@ -224,6 +224,21 @@
       "category": "Sprite Dust",
       "status": "confirmed",
       "firstSeen": "2026-09-10",
+      "lastSeen": "2026-09-26",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "DUSTYSPRITES",
+      "code": "DustySprites",
+      "reward": "5,000 Sprite Dust",
+      "category": "Sprite Dust",
+      "status": "confirmed",
+      "firstSeen": "2026-09-26",
       "lastSeen": "2026-09-26",
       "availability": "active",
       "observedSources": [
@@ -563,12 +578,42 @@
       "expiredSources": []
     },
     {
+      "id": "WEARETHEWORLDCHAMPIONSTODAY",
+      "code": "WeAreTheWorldChampionsToday",
+      "reward": "FNCS Sentry BackBling",
+      "category": "Other",
+      "status": "confirmed",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
       "id": "WHEREISTHEDUSTYTREE",
       "code": "WhereIsTheDustyTree",
       "reward": "5,000 Sprite Dust",
       "category": "Sprite Dust",
       "status": "confirmed",
       "firstSeen": "2026-09-05",
+      "lastSeen": "2026-09-26",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "WHOCRACKEDTHECODE",
+      "code": "WhoCrackedTheCode",
+      "reward": "40,000 XP",
+      "category": "XP",
+      "status": "confirmed",
+      "firstSeen": "2026-09-26",
       "lastSeen": "2026-09-26",
       "availability": "active",
       "observedSources": [
