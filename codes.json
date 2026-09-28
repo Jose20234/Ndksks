@@ -1,6 +1,6 @@
 {
-  "databaseVersion": "2026.09.28.1248",
-  "updated": "2026-09-28T12:48:25Z",
+  "databaseVersion": "2026.09.28.2254",
+  "updated": "2026-09-28T22:54:20Z",
   "season": "C7S4",
   "seasonName": "Chapter 7 Season 4 — Override",
   "sources": [
@@ -104,6 +104,21 @@
       "category": "Sprite Dust",
       "status": "confirmed",
       "firstSeen": "2026-09-17",
+      "lastSeen": "2026-09-28",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "BONERATTLER",
+      "code": "BoneRattler",
+      "reward": "4 Spicy Tacos",
+      "category": "Gizmo",
+      "status": "confirmed",
+      "firstSeen": "2026-09-28",
       "lastSeen": "2026-09-28",
       "availability": "active",
       "observedSources": [
