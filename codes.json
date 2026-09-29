@@ -1,6 +1,6 @@
 {
-  "databaseVersion": "2026.09.29.1203",
-  "updated": "2026-09-29T12:03:26Z",
+  "databaseVersion": "2026.09.29.2148",
+  "updated": "2026-09-29T21:48:09Z",
   "season": "C7S4",
   "seasonName": "Chapter 7 Season 4 — Override",
   "sources": [
@@ -524,6 +524,21 @@
       "category": "Sprite Dust",
       "status": "confirmed",
       "firstSeen": "2026-09-17",
+      "lastSeen": "2026-09-29",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "POWEROUT",
+      "code": "PowerOut",
+      "reward": "FNAF Jumpscare",
+      "category": "Other",
+      "status": "confirmed",
+      "firstSeen": "2026-09-29",
       "lastSeen": "2026-09-29",
       "availability": "active",
       "observedSources": [
