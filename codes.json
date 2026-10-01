@@ -1,6 +1,6 @@
 {
-  "databaseVersion": "2026.10.01.0356",
-  "updated": "2026-10-01T03:56:10Z",
+  "databaseVersion": "2026.10.01.1221",
+  "updated": "2026-10-01T12:21:28Z",
   "season": "C7S4",
   "seasonName": "Chapter 7 Season 4 — Override",
   "sources": [
@@ -344,6 +344,21 @@
       "category": "Gizmo",
       "status": "confirmed",
       "firstSeen": "2026-09-03",
+      "lastSeen": "2026-10-01",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "ITHINKTHEKEYFOUNDMECHAT",
+      "code": "IThinkTheKeyFoundMeChat",
+      "reward": "1 Extraction Accelerator",
+      "category": "Gizmo",
+      "status": "confirmed",
+      "firstSeen": "2026-10-01",
       "lastSeen": "2026-10-01",
       "availability": "active",
       "observedSources": [
