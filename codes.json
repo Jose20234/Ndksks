@@ -1,6 +1,6 @@
 {
-  "databaseVersion": "2026.10.01.1221",
-  "updated": "2026-10-01T12:21:28Z",
+  "databaseVersion": "2026.10.01.2217",
+  "updated": "2026-10-01T22:17:48Z",
   "season": "C7S4",
   "seasonName": "Chapter 7 Season 4 — Override",
   "sources": [
@@ -203,6 +203,21 @@
       "expiredSources": []
     },
     {
+      "id": "CROWSAREAFRAID",
+      "code": "CrowsAreAfraid",
+      "reward": "Turns you into a Scarecrow",
+      "category": "Other",
+      "status": "confirmed",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
       "id": "DESTINYAWAITS",
       "code": "DestinyAwaits",
       "reward": "2 Llama Supply Drops",
@@ -325,7 +340,7 @@
     {
       "id": "INSERTCOINTOCONTINUE",
       "code": "InsertCoinToContinue",
-      "reward": "Turns all party members into props",
+      "reward": "Turns you into an arcade machine",
       "category": "Other",
       "status": "confirmed",
       "firstSeen": "2026-09-04",
@@ -563,12 +578,42 @@
       "expiredSources": []
     },
     {
+      "id": "PUMPKINSPICELIFE",
+      "code": "PumpkinSpiceLife",
+      "reward": "Turns you into a Pumpkin",
+      "category": "Other",
+      "status": "confirmed",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
       "id": "REACHYOURIMPOSSIBLE",
       "code": "ReachYourImpossible",
       "reward": "Block Party Loading Screen",
       "category": "Loading Screen",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
+      "lastSeen": "2026-10-01",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "S7H-50P-R03",
+      "code": "S7H-50P-R03",
+      "reward": "Geno Story",
+      "category": "Other",
+      "status": "confirmed",
+      "firstSeen": "2026-10-01",
       "lastSeen": "2026-10-01",
       "availability": "active",
       "observedSources": [
