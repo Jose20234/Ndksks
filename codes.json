@@ -1,6 +1,6 @@
 {
-  "databaseVersion": "2026.10.15.2053",
-  "updated": "2026-10-15T20:53:45Z",
+  "databaseVersion": "2026.10.16.0258",
+  "updated": "2026-10-16T02:58:35Z",
   "season": "C7S4",
   "seasonName": "Chapter 7 Season 4 — Override",
   "sources": [
@@ -14,7 +14,7 @@
       "category": "Cheat Master Sprite",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -29,7 +29,7 @@
       "category": "Spray",
       "status": "confirmed",
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -44,7 +44,7 @@
       "category": "Sprite Dust",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -59,7 +59,22 @@
       "category": "Gizmo",
       "status": "confirmed",
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "B1GBODYSW3RVE",
+      "code": "B1gbodysw3rve",
+      "reward": "Plays Lil Krazy by Yeat",
+      "category": "Other",
+      "status": "confirmed",
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -74,7 +89,7 @@
       "category": "Gizmo",
       "status": "confirmed",
       "firstSeen": "2026-09-14",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -89,7 +104,7 @@
       "category": "Loading Screen",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -104,7 +119,7 @@
       "category": "Sprite Dust",
       "status": "confirmed",
       "firstSeen": "2026-09-17",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -119,7 +134,7 @@
       "category": "Gizmo",
       "status": "confirmed",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -134,7 +149,7 @@
       "category": "Cheat Master Sprite",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -149,7 +164,7 @@
       "category": "Other",
       "status": "confirmed",
       "firstSeen": "2026-09-04",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -164,7 +179,7 @@
       "category": "Gizmo",
       "status": "confirmed",
       "firstSeen": "2026-09-17",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -179,7 +194,7 @@
       "category": "Gizmo",
       "status": "confirmed",
       "firstSeen": "2026-09-03",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -194,7 +209,7 @@
       "category": "Sprite Dust",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -209,7 +224,7 @@
       "category": "Other",
       "status": "confirmed",
       "firstSeen": "2026-10-01",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -224,7 +239,7 @@
       "category": "Gizmo",
       "status": "confirmed",
       "firstSeen": "2026-09-17",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -239,7 +254,7 @@
       "category": "Other",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -254,7 +269,7 @@
       "category": "Sprite Dust",
       "status": "confirmed",
       "firstSeen": "2026-09-10",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -269,7 +284,7 @@
       "category": "Sprite Dust",
       "status": "confirmed",
       "firstSeen": "2026-09-26",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -284,7 +299,7 @@
       "category": "Gizmo",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -299,7 +314,7 @@
       "category": "Cheat Master Sprite",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -314,7 +329,7 @@
       "category": "Cheat Master Sprite",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -329,7 +344,7 @@
       "category": "Sprite Dust",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -344,7 +359,7 @@
       "category": "Other",
       "status": "confirmed",
       "firstSeen": "2026-09-04",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -359,7 +374,7 @@
       "category": "Gizmo",
       "status": "confirmed",
       "firstSeen": "2026-09-03",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -374,7 +389,7 @@
       "category": "Gizmo",
       "status": "confirmed",
       "firstSeen": "2026-10-01",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -389,7 +404,7 @@
       "category": "Cheat Master Sprite",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -404,7 +419,7 @@
       "category": "Cheat Master Sprite",
       "status": "confirmed",
       "firstSeen": "2026-08-24",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -419,7 +434,22 @@
       "category": "Other",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "LUHLEAKYZ",
+      "code": "LUHLEAKYZ",
+      "reward": "Plays Timë Passed by Yeat",
+      "category": "Other",
+      "status": "confirmed",
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -434,7 +464,7 @@
       "category": "Sprite Dust",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -449,7 +479,7 @@
       "category": "Gizmo",
       "status": "confirmed",
       "firstSeen": "2026-09-17",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -464,7 +494,7 @@
       "category": "Gizmo",
       "status": "confirmed",
       "firstSeen": "2026-09-07",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -479,7 +509,7 @@
       "category": "Gizmo",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -494,7 +524,7 @@
       "category": "XP",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -509,7 +539,7 @@
       "category": "Gizmo",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -524,7 +554,7 @@
       "category": "Sprite Dust",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -539,7 +569,7 @@
       "category": "Cheat Master Sprite",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -554,7 +584,7 @@
       "category": "Sprite Dust",
       "status": "confirmed",
       "firstSeen": "2026-09-17",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -569,7 +599,22 @@
       "category": "Other",
       "status": "confirmed",
       "firstSeen": "2026-09-29",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
+      "availability": "active",
+      "observedSources": [
+        "site:fortnitegg"
+      ],
+      "sourceCount": 1,
+      "expiredSources": []
+    },
+    {
+      "id": "PR1VAT3J3T",
+      "code": "Pr1vat3j3t",
+      "reward": "Plays Marching by Yeat",
+      "category": "Other",
+      "status": "confirmed",
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -584,7 +629,7 @@
       "category": "Other",
       "status": "confirmed",
       "firstSeen": "2026-10-01",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -599,7 +644,7 @@
       "category": "Loading Screen",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -614,7 +659,7 @@
       "category": "Other",
       "status": "confirmed",
       "firstSeen": "2026-10-01",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -629,7 +674,7 @@
       "category": "Spray",
       "status": "confirmed",
       "firstSeen": "2026-09-16",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -644,7 +689,7 @@
       "category": "Gizmo",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -659,7 +704,7 @@
       "category": "Gizmo",
       "status": "confirmed",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -674,7 +719,7 @@
       "category": "Other",
       "status": "confirmed",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -689,7 +734,7 @@
       "category": "Other",
       "status": "confirmed",
       "firstSeen": "2026-09-26",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -704,7 +749,7 @@
       "category": "Sprite Dust",
       "status": "confirmed",
       "firstSeen": "2026-09-05",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -719,7 +764,7 @@
       "category": "XP",
       "status": "confirmed",
       "firstSeen": "2026-09-26",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
@@ -734,7 +779,7 @@
       "category": "Sprite Dust",
       "status": "confirmed",
       "firstSeen": "2026-09-03",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "availability": "active",
       "observedSources": [
         "site:fortnitegg"
